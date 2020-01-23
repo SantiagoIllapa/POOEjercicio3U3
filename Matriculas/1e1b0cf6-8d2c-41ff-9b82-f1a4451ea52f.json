@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 8,
+    "second": 47
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Carlos",
+    "apellido": "Toapanta",
+    "cedula": "849865198498"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "promedio": 19.333334,
+  "Nmatricula": "1e1b0cf6-8d2c-41ff-9b82-f1a4451ea52f",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 4
+      },
+      "valor": 18.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 9
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 14
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ]
+}

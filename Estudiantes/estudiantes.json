@@ -1,0 +1,121 @@
+[
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Futbol",
+      "Club de danza",
+      "Club Robótica",
+      "Club de ajedrez"
+    ],
+    "nombre": "Carlos Eduardo",
+    "apellido": "Perez Gomez",
+    "cedula": "09876543"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club Robótica",
+      "Club de tenis de mesa",
+      "Club de ajedrez"
+    ],
+    "nombre": "Carlos",
+    "apellido": "Toapanta",
+    "cedula": "849865198498"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de música",
+      "Club de Futbol",
+      "Club de danza",
+      "Club Robótica",
+      "Club de tenis de mesa"
+    ],
+    "nombre": "Estefanía",
+    "apellido": "Nuñez",
+    "cedula": "849865198498"
+  },
+  {
+    "carrera": "Ingeniería  Mecatrónica",
+    "clubes": [
+      "Club de música",
+      "Club de danza",
+      "Club Robótica",
+      "Club de tenis de mesa",
+      "Club de ajedrez"
+    ],
+    "nombre": "Pedro",
+    "apellido": "Pacheco",
+    "cedula": "849865198498"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club Robótica"
+    ],
+    "nombre": "Pablo",
+    "apellido": "Morales",
+    "cedula": "849865198498"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Futbol",
+      "Club de danza",
+      "Club de ajedrez"
+    ],
+    "nombre": "María",
+    "apellido": "Mendoza",
+    "cedula": "1243123412"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de música",
+      "Club de Futbol",
+      "Club de tenis de mesa",
+      "Club de ajedrez"
+    ],
+    "nombre": "Diego",
+    "apellido": "Portero",
+    "cedula": "1243123412"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de música",
+      "Club de tenis de mesa"
+    ],
+    "nombre": "José",
+    "apellido": "Narvaez",
+    "cedula": "1243123412"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de música",
+      "Club de andinismo",
+      "Club de danza",
+      "Club de ajedrez"
+    ],
+    "nombre": "Katterine",
+    "apellido": "Cortez",
+    "cedula": "1243123412"
+  },
+  {
+    "carrera": "Ingeniería  Mecatrónica",
+    "clubes": [
+      "Club Robótica",
+      "Club de tenis de mesa",
+      "Club de ajedrez"
+    ],
+    "nombre": "Gabriel",
+    "apellido": "Morales",
+    "cedula": "549842984"
+  }
+]

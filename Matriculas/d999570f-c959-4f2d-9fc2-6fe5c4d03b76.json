@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 3
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Pablo",
+    "apellido": "Morales",
+    "cedula": "849865198498"
+  },
+  "curso": {
+    "titulo": "Lenguaje avanzado de Java",
+    "costo": 100.0,
+    "descripcion": "Texto Avanzado"
+  },
+  "promedio": 18.366667,
+  "Nmatricula": "d999570f-c959-4f2d-9fc2-6fe5c4d03b76",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 21
+      },
+      "valor": 19.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 27
+      },
+      "valor": 17.6,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 31
+      },
+      "valor": 18.5,
+      "unidad": "III"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[
+{"titulo": "Fundamentos de Programacion","costo": 100.0,"descripcion": "Algoritmos"},
+        {"titulo": "Codificación avanzada Web","costo": 150.0,"descripcion": "Servidores y programacion en nube"},
+        {"titulo": "Programación Web","costo": 200.0,"descripcion": "Contextos Html"},
+        {"titulo": "Lenguaje avanzado de Java","costo": 100.0,"descripcion": "Texto Avanzado"},
+        {"titulo": "Programación movil avanzada","costo": 50.0,"descripcion": "Diagnostico y pruebas"},
+        {"titulo": "Programación Orientada a Objetos","costo": 100.0,"descripcion": "Clases Abstractas"}
+]

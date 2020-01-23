@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 0
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Pedro",
+    "apellido": "Pacheco",
+    "cedula": "849865198498"
+  },
+  "curso": {
+    "titulo": "Lenguaje avanzado de Java",
+    "costo": 100.0,
+    "descripcion": "Texto Avanzado"
+  },
+  "promedio": 14.600001,
+  "Nmatricula": "3942758e-87fe-43e5-8846-5b502f7de01e",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 28
+      },
+      "valor": 12.6,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 34
+      },
+      "valor": 14.6,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 43
+      },
+      "valor": 16.6,
+      "unidad": "III"
+    }
+  ]
+}

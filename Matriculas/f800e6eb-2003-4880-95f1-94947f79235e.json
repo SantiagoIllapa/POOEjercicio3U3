@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 8,
+    "second": 55
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Estefanía",
+    "apellido": "Nuñez",
+    "cedula": "849865198498"
+  },
+  "curso": {
+    "titulo": "Codificación avanzada Web",
+    "costo": 150.0,
+    "descripcion": "Servidores y programacion en nube"
+  },
+  "promedio": 14.0,
+  "Nmatricula": "f800e6eb-2003-4880-95f1-94947f79235e",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 50
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 54
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 57
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ]
+}

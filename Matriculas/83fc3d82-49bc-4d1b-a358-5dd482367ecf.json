@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 10
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Diego",
+    "apellido": "Portero",
+    "cedula": "1243123412"
+  },
+  "curso": {
+    "titulo": "Programación Orientada a Objetos",
+    "costo": 100.0,
+    "descripcion": "Clases Abstractas"
+  },
+  "promedio": 15.666667,
+  "Nmatricula": "83fc3d82-49bc-4d1b-a358-5dd482367ecf",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 41
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 45
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 51
+      },
+      "valor": 12.0,
+      "unidad": "III"
+    }
+  ]
+}

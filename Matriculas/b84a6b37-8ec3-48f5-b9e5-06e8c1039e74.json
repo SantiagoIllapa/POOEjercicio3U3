@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 15
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "José",
+    "apellido": "Narvaez",
+    "cedula": "1243123412"
+  },
+  "curso": {
+    "titulo": "Lenguaje avanzado de Java",
+    "costo": 100.0,
+    "descripcion": "Texto Avanzado"
+  },
+  "promedio": 14.400001,
+  "Nmatricula": "b84a6b37-8ec3-48f5-b9e5-06e8c1039e74",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 25
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 28
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 33
+      },
+      "valor": 16.2,
+      "unidad": "III"
+    }
+  ]
+}

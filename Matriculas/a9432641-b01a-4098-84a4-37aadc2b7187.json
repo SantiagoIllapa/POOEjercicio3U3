@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 7
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "María",
+    "apellido": "Mendoza",
+    "cedula": "1243123412"
+  },
+  "curso": {
+    "titulo": "Programación movil avanzada",
+    "costo": 50.0,
+    "descripcion": "Diagnostico y pruebas"
+  },
+  "promedio": 11.666667,
+  "Nmatricula": "a9432641-b01a-4098-84a4-37aadc2b7187",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 5
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 6
+      },
+      "valor": 11.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 9
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ]
+}

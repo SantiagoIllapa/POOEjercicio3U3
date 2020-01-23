@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 24
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Gabriel",
+    "apellido": "Morales",
+    "cedula": "549842984"
+  },
+  "curso": {
+    "titulo": "Programación Web",
+    "costo": 200.0,
+    "descripcion": "Contextos Html"
+  },
+  "promedio": 13.466667,
+  "Nmatricula": "9c791b1d-cba3-468e-918f-b063a0d2244e",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 3
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 7
+      },
+      "valor": 13.2,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 12
+      },
+      "valor": 13.2,
+      "unidad": "III"
+    }
+  ]
+}

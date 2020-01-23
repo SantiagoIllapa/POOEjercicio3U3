@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 19
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Katterine",
+    "apellido": "Cortez",
+    "cedula": "1243123412"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "promedio": 13.666667,
+  "Nmatricula": "65887f0a-fee3-4ac8-864c-2663051d9c72",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 29
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 33
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 38
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ]
+}

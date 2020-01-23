@@ -1,0 +1,61 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 8,
+    "second": 42
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Carlos Eduardo",
+    "apellido": "Perez Gomez",
+    "cedula": "09876543"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "promedio": 13.666667,
+  "Nmatricula": "4c2226d6-cfe2-4fbd-8370-ec50945f7c27",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 38
+      },
+      "valor": 13.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 42
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 45
+      },
+      "valor": 16.0,
+      "unidad": "III"
+    }
+  ]
+}
